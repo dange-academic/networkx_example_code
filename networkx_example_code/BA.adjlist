@@ -1,0 +1,13 @@
+#d:\python39\lib\site-packages\ipykernel_launcher.py --ip=127.0.0.1 --stdin=9019 --control=9017 --hb=9016 --Session.signature_scheme="hmac-sha256" --Session.key=b"89420fa6-c926-4efd-8408-3910c06236af" --shell=9018 --transport="tcp" --iopub=9020 --f=c:\Users\dange\AppData\Roaming\jupyter\runtime\kernel-v2-680OC4CdUL9uGE4.json
+# GMT Sat Sep 17 05:25:39 2022
+# 
+0 1 2 3 6 7
+1 3 4 5 8
+2 4 8 9
+3 7 9
+4 5
+5 6
+6
+7
+8
+9
